@@ -24,5 +24,5 @@ The following steps were taken to build and train the network:
 # CNN
 The below architecture was used to construct the initial network. Batch normalization and dropout layers were also added.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/79719208/196044282-223d1c2e-0515-435b-b921-4a42e5fbef8d.png" width=55% height=55%>
+  <img src="https://user-images.githubusercontent.com/79719208/196044282-223d1c2e-0515-435b-b921-4a42e5fbef8d.png" width=60% height=60%>
 </p>
